@@ -25,7 +25,7 @@ ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop/questions
 $ cd ..
 
 ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
-$ cp -r questions questions_copy (-r is called a flag )
+$ cp -r questions questions_copy (-r is called a flag, it is used to copy directories )
 
 ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
 $ rm -rf questions
