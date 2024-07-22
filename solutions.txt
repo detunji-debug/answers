@@ -1,0 +1,36 @@
+$ touch name.txt
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
+$ mv name.txt rename.txt ( the mv command can be used to move and also rename files)
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
+$ cp rename.txt copy.txt
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
+$ rm copy.txt
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
+$ mkdir questions
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
+$ cd questions
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop/questions
+$ touch first.txt
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop/questions
+$ touch second.txt
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop/questions
+$ cd ..
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
+$ cp -r questions questions_copy (-r is called a flag )
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
+$ rm -rf questions
+
+ADETUNJI@DESKTOP-53FP8GM MINGW64 ~/Desktop
+$ rm -rf questions_copy
+
+
